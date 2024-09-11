@@ -1,0 +1,6 @@
+message = 'and now for something completely different'
+n = 17
+pi = 3.1415926535897932
+print(message)
+print(17)
+print(pi)
